@@ -1,0 +1,14 @@
+{
+  "timeout": 10000,
+  "reporter": "mochawesome",
+  "reporter-options": {
+    "reportDir": "reports",
+    "reportFilename": "test-report",
+    "html": true,
+    "json": true,
+    "overwrite": true,
+    "timestamp": true,
+    "charts": true,
+    "code": true
+  }
+}
