@@ -39,6 +39,9 @@ jobs:
       - name: Run tests
         run: npm test
 
+      - name: Prepare reports for Pages
+        run: cp reports/exercicio-report.html reports/index.html
+
       - name: Upload test reports
         uses: actions/upload-pages-artifact@v3
         with:
