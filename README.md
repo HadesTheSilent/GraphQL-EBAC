@@ -1,0 +1,1 @@
+[![Test and Deploy Reports to GitHub Pages](https://github.com/HadesTheSilent/GraphQL-EBAC/actions/workflows/test-deploy.yml/badge.svg)](https://github.com/HadesTheSilent/GraphQL-EBAC/actions/workflows/test-deploy.yml)
